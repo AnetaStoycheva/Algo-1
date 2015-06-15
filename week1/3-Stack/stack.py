@@ -68,4 +68,3 @@ def main():
 
 if __name__ == '__main__':
     main()
->>>>>>> Adding tasks for week1; adding .gitignore file.
